@@ -1,0 +1,1 @@
+dbURI = "mysql+pymysql://root:root@localhost:3306/FlaskSqlalchemyRest"
